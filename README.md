@@ -7,3 +7,4 @@ Hello World
 Hi
 # Reviewed the login method
 # Resolved the issue to Connecting to the old database of bees
+# WW_Story2 resolved
